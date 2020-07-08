@@ -14,7 +14,7 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
-    "gatsby": "^2.22.15",
+    "gatsby": "^2.23.19-core-js.9",
     "gatsby-plugin-route-dictionary": "^1.0.0",
     "gatsby-plugin-webpack-bundle-analyser-v2": "^1.1.10",
     "react": "^16.12.0",
